@@ -4,11 +4,13 @@
     "outDir": "../../dist/out-tsc",
     "types": [],
     "target": "ES2022",
-    "useDefineForClassFields": false
+    "useDefineForClassFields": false,
+    "jsx": "react-jsx"
   },
   "files": ["src/main.ts", "src/polyfills.ts"],
   "include": [
     "**/*.d.ts",
+    "**/*.tsx",
     "../../libs/products/home-page/src/index.ts",
     "../../libs/products/product-detail-page/src/index.ts"
   ],

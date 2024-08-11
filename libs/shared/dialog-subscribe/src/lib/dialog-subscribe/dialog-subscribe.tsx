@@ -27,7 +27,7 @@ const Dialog = styled.dialog`
   box-sizing: border-box;
 `;
 
-const DialogContent = styled.div`
+const DialogContent = styled.section`
   width: 100%;
   text-align: center;
   padding: 20px;

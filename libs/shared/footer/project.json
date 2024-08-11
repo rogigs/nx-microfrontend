@@ -1,0 +1,9 @@
+{
+  "name": "shared-footer",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/shared/footer/src",
+  "projectType": "library",
+  "tags": ["scope:shared", "type:ui"],
+  "generators": {},
+  "targets": {}
+}

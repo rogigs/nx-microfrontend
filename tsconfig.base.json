@@ -29,6 +29,7 @@
         "libs/shared/cart/state/src/react.ts"
       ],
       "@nx-example/shared/e2e-utils": ["libs/shared/e2e-utils/src/index.ts"],
+      "@nx-example/shared/footer": ["libs/shared/footer/src/index.ts"],
       "@nx-example/shared/header": ["libs/shared/header/src/index.ts"],
       "@nx-example/shared/jsxify": ["libs/shared/jsxify/src/index.ts"],
       "@nx-example/shared/product/data": [
@@ -48,7 +49,9 @@
       ],
       "@nx-example/shared/product/ui": ["libs/shared/product/ui/src/index.ts"],
       "@nx-example/shared/styles": ["libs/shared/styles/src/index.ts"],
-      "@nx-example/shared/footer": ["libs/shared/footer/src/index.ts"]
+      "@nx-example/shared/dialog-subscribe": [
+        "libs/shared/dialog-subscribe/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]

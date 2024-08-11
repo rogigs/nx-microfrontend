@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+import '@nx-example/shared/footer';
 import '@nx-example/shared/header';
 
 @Component({

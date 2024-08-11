@@ -35,6 +35,7 @@
         "styles": [
           "libs/shared/styles/src/index.scss",
           "libs/shared/header/index.scss",
+          "libs/shared/footer/index.scss",
           "node_modules/normalize.css/normalize.css"
         ],
         "scripts": []
